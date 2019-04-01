@@ -1,0 +1,40 @@
+.tp-caption.allblue {
+font-size:52px;
+line-height:68px;
+color:rgb(32, 144, 222);
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+background-color:rgba(0, 0, 0, 0);
+text-shadow:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.noblack {
+font-size:52px;
+line-height:68px;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+background-color:rgba(0, 0, 0, 0);
+text-shadow:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.bluebox {
+font-size:46px;
+line-height:57px;
+font-family:Tahoma, Geneva, sans-serif;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(32, 144, 222);
+background-color:rgba(32, 144, 222, 0);
+text-shadow:none;
+border-width:0px;
+border-color:rgb(32, 144, 222);
+border-style:none;
+}
+
